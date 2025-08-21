@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Anas Education +40K YouTube | Cybersecurity and Network Engineer ENSAF | Pentester (Web app & Active Directory )|Web developer |Top1% Tryhackme | CTF Player</h2>
+<h2 align="left">Anas Education +40K YouTube | Cybersecurity and Network Engineer ENSAF | Pentester (Web app | Network | Active Directory | Cloud (buckets)  )|Web developer |Top1% Tryhackme | CTF Player</h2>
 
 ###
 
