@@ -1,6 +1,10 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://gh.crafter.run/Anas-Magane?theme=dark&cols=120" />
+  <source media="(prefers-color-scheme: light)" srcset="https://gh.crafter.run/Anas-Magane?theme=light&cols=120" />
+  <img alt="Anas Magane GitHub ASCII profile" src="https://gh.crafter.run/Anas-Magane?theme=dark&cols=120" width="100%" />
+</picture>
 
-# Anas Magane
+<div align="center">
 
 ### Cybersecurity Engineer · Penetration Tester · AppSec
 
@@ -12,10 +16,6 @@
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Anas.Education)
 
 </div>
-
-<p align="center">
-  <img src="./assets/terminal-profile.svg" width="100%" alt="Anas Magane terminal profile" />
-</p>
 
 ---
 
