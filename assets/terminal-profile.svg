@@ -1,0 +1,46 @@
+<svg width="1200" height="520" viewBox="0 0 1200 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#101820"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="16" stdDeviation="28" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <rect x="24" y="24" width="1152" height="472" rx="24" fill="url(#bg)" stroke="#30363D" stroke-width="2" filter="url(#shadow)"/>
+  <rect x="24" y="24" width="1152" height="56" rx="24" fill="#161B22"/>
+  <rect x="24" y="56" width="1152" height="24" fill="#161B22"/>
+
+  <circle cx="58" cy="52" r="7" fill="#FF5F56"/>
+  <circle cx="82" cy="52" r="7" fill="#FFBD2E"/>
+  <circle cx="106" cy="52" r="7" fill="#27C93F"/>
+  <text x="600" y="59" text-anchor="middle" fill="#8B949E" font-size="16" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">anas@security: ~/profile</text>
+
+  <text x="64" y="122" fill="#7EE787" font-size="21" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">$ whoami</text>
+  <text x="64" y="158" fill="#F0F6FC" font-size="30" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Anas Magane</text>
+  <text x="64" y="192" fill="#C9D1D9" font-size="18" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Cybersecurity Engineer · Penetration Tester · AppSec</text>
+
+  <line x1="64" y1="222" x2="1136" y2="222" stroke="#21262D" stroke-width="2"/>
+
+  <text x="64" y="266" fill="#FF7B72" font-size="17" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">ROLE</text>
+  <text x="190" y="266" fill="#C9D1D9" font-size="17" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Founder &amp; CTO @ Aramon IT</text>
+
+  <text x="64" y="304" fill="#D2A8FF" font-size="17" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">FOCUS</text>
+  <text x="190" y="304" fill="#C9D1D9" font-size="17" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Web · API · Network · Active Directory</text>
+
+  <text x="64" y="342" fill="#79C0FF" font-size="17" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">TOOLS</text>
+  <text x="190" y="342" fill="#C9D1D9" font-size="17" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Burp Suite · Nmap · Python · Docker · Linux</text>
+
+  <text x="64" y="380" fill="#FFA657" font-size="17" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">CERTS</text>
+  <text x="190" y="380" fill="#C9D1D9" font-size="17" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">eWPTXv3 · eJPTv2 · CRTA · TryHackMe Top 1%</text>
+
+  <text x="64" y="418" fill="#56D4DD" font-size="17" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">BUILD</text>
+  <text x="190" y="418" fill="#C9D1D9" font-size="17" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Security automation · Labs · CTFs · Learning platforms</text>
+
+  <text x="64" y="462" fill="#7EE787" font-size="17" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">$ build --break --understand --secure</text>
+  <rect x="463" y="447" width="11" height="20" fill="#7EE787">
+    <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
