@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/anas-ascii-github-banner.jpg" width="100%" alt="Anas Magane cybersecurity ASCII profile banner" />
+  <img src="./assets/terminal-profile.svg" width="100%" alt="Anas Magane ASCII cybersecurity profile" />
 </p>
 
 <div align="center">
