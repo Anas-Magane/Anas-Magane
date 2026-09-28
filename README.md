@@ -1,8 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://gh.crafter.run/Anas-Magane?theme=dark&cols=120" />
-  <source media="(prefers-color-scheme: light)" srcset="https://gh.crafter.run/Anas-Magane?theme=light&cols=120" />
-  <img alt="Anas Magane GitHub ASCII profile" src="https://gh.crafter.run/Anas-Magane?theme=dark&cols=120" width="100%" />
-</picture>
+<p align="center">
+  <img src="./assets/terminal-profile.svg" width="100%" alt="Anas Magane ASCII cybersecurity profile" />
+</p>
 
 <div align="center">
 
