@@ -1,150 +1,109 @@
-<p align="center">
-  <img src="./assets/terminal-profile.svg" width="100%" alt="Anas Magane ASCII cybersecurity profile" />
-</p>
-
 <div align="center">
 
-### Cybersecurity Engineer · Penetration Tester · AppSec
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/emmi-style-banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/emmi-style-banner-light.svg">
+  <img src="assets/emmi-style-banner-dark.svg" width="100%" alt="Anas Magane profile terminal">
+</picture>
 
-**Founder & CTO @ [Aramon IT](https://aramon.ma)** · **eWPTXv3 · eJPTv2 · CRTA** · **TryHackMe Top 1%**
+<br>
 
-[![Website](https://img.shields.io/badge/aramon.ma-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aramon.ma)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-magane-3aa287262/)
-[![YouTube](https://img.shields.io/badge/Anas_Education-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Anas_Education)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Anas.Education)
+<a href="https://github.com/Anas-Magane">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=AA9BEF&center=true&vCenter=true&width=900&lines=Anas+Magane+-+Cybersecurity+Engineer+%26+Pentester;Web+%2F+API+%2F+Network+%2F+Active+Directory+Security;Founder+%26+CTO+%40+Aramon+IT;Build+%E2%86%92+Break+%E2%86%92+Understand+%E2%86%92+Secure" alt="typing banner">
+</a>
+
+<br>
+
+<a href="https://www.linkedin.com/in/anas-magane-3aa287262/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/@Anas_Education"><img src="https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=aa9bef" alt="YouTube"></a>&nbsp;&nbsp;
+<a href="https://tryhackme.com/p/Anas.Education"><img src="https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=aa9bef" alt="TryHackMe"></a>&nbsp;&nbsp;
+<a href="https://aramon.ma"><img src="https://img.shields.io/badge/Aramon-0d1117?style=for-the-badge&logo=googlechrome&logoColor=aa9bef" alt="Aramon"></a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Anas-Magane&style=flat&color=aa9bef&label=profile+views" alt="profile views">
 
 </div>
 
 ---
 
-## `whoami`
+## This is me :)
 
-I build and break systems to understand how to secure them.
+Hi, I'm **Anas Magane**, a cybersecurity engineer, penetration tester and AppSec practitioner based in **Fes, Morocco**.
+I break systems to understand them, then turn what I learn into better security, automation, labs and practical education.
 
-Cybersecurity engineer focused on **web applications, APIs, network infrastructure and Active Directory penetration testing**. My work covers the full assessment lifecycle: reconnaissance, vulnerability discovery, controlled exploitation, privilege escalation, security reporting and remediation.
+- 🛡️ **Founder & CTO at [Aramon IT](https://aramon.ma)** — building practical cybersecurity and IT learning products, labs and security tooling.
+- ⚔️ Focused on **web applications, APIs, networks and Active Directory security** across reconnaissance, exploitation, privilege escalation, reporting and remediation.
+- 🧪 I build **security automation, vulnerable labs and CTF challenges** for realistic hands-on practice.
+- 🎙️ I create practical cybersecurity content through **[Anas Education](https://www.youtube.com/@Anas_Education)** for a **65K+ YouTube audience**.
+- 🎓 Certified **eWPTXv3 · eJPTv2 · CRTA** and ranked **Top 1% on TryHackMe**.
+- 🌱 My direction: **Offensive Security + AppSec + Security Engineering + Cloud Security**.
+- 💬 Talk to me about **web security, Active Directory, pentesting methodology, CTFs or security automation**.
 
-I also build **security automation, vulnerable labs, CTF challenges and learning platforms**, while teaching practical cybersecurity through **Anas Education**, a 65K+ YouTube community.
-
-```text
-security@anas:~$ focus
-├── Offensive Security   → Web · API · Network · Active Directory
-├── AppSec               → Security testing · secure design · remediation
-├── Automation           → Recon · vulnerability scanning · reporting
-├── Labs & CTFs          → Vulnerable environments · attack paths · challenges
-└── Education            → Practical training · content · cybersecurity learning
-```
-
-## Featured security work
-
-| Project | What it demonstrates | Focus |
-|---|---|---|
-| **[Pentesting](https://github.com/Anas-Magane/Pentesting)** | Practical offensive-security notes, methodologies, tools and cheat sheets | Recon · Web · Network · Pentest methodology |
-| **[AutoBugBounty](https://github.com/Anas-Magane/AutoBugBounty)** | Automated bug-bounty reconnaissance pipeline with subdomain enumeration, CVE scanning, JS secret detection, directory brute force and parameter discovery | Python · Nuclei · FFUF · Automation |
-| **[vulnscan](https://github.com/Anas-Magane/vulnscan)** | Network discovery → host profiling → deep assessment → CVE correlation → misconfiguration detection → reporting | Python · Network security · Vulnerability assessment |
-| **[LABS](https://github.com/Anas-Magane/LABS)** | Docker-based intentionally vulnerable environments for realistic offensive-security practice | CTF · Docker · Exploitation labs |
-| **[OSINT](https://github.com/Anas-Magane/OSINT)** | Curated OSINT tools, techniques, resources and practical investigation guides | OSINT · Reconnaissance · Threat intelligence |
-| **[CTF Challenges](https://github.com/Anas-Magane/CTF-challenges)** | Custom security challenges designed for hands-on exploitation and problem solving | Web · Forensics · Reverse · Crypto · Pwn |
-
-## Building at Aramon IT
-
-As Founder & CTO of **[Aramon IT](https://aramon.ma)**, I work on products that turn cybersecurity knowledge into practical environments and workflows.
-
-- **Aramon Report** — pentest finding management and client-ready report automation.
-- **Aramon Academy** — structured cybersecurity learning paths, practical notes and tool syntax.
-- **Aramon Labs & CTFs** — intentionally vulnerable environments and hands-on security challenges.
-
-## Experience
-
-**Founder / CTO — Aramon IT**  
-Building cybersecurity and education products, labs and internal security tooling.
-
-**Cybersecurity Content Creator — Anas Education**  
-Practical penetration testing, web security and CTF content for a 65K+ YouTube audience.
-
-**Freelance Penetration Tester — Moratel**  
-Web application and infrastructure security assessments with remediation-focused reporting.
-
-**Security Engineering Intern — BTRUST Advisory & Technology**  
-Built **VulnTrust**, a vulnerability-monitoring platform with automated alerts, PDF reports and AI-assisted remediation suggestions.
-
-**Active Directory Security Intern — CHU Fes**  
-Built a custom Active Directory lab and executed full attack chains from enumeration through exploitation.
-
-## Certifications & continuous practice
-
-<p align="left">
-  <img src="https://img.shields.io/badge/eWPTXv3-Web_Application_Penetration_Tester_eXtreme-111111?style=flat-square" alt="eWPTXv3" />
-  <img src="https://img.shields.io/badge/eJPTv2-Junior_Penetration_Tester-111111?style=flat-square" alt="eJPTv2" />
-  <img src="https://img.shields.io/badge/CRTA-Certified_Red_Team_Analyst-111111?style=flat-square" alt="CRTA" />
-  <img src="https://img.shields.io/badge/TryHackMe-Top_1%25-212C42?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe Top 1%" />
-</p>
-
-Also practicing through **PortSwigger Web Security Academy** and **PentesterLab**.
-
-## Security & engineering stack
+<br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,nextjs,django,postgres,mysql,docker,linux,windows,aws,git,github&perline=12" alt="Core technical stack" />
+
+## my security stack`
+
+<img src="https://skillicons.dev/icons?i=python,js,nextjs,django,postgres,mysql,docker,linux,windows,aws,git,github,vscode&perline=7" alt="tech stack">
+
 </div>
-
-<br />
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge" alt="Nmap" />
-  <img src="https://img.shields.io/badge/OWASP_WSTG-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP WSTG" />
-  <img src="https://img.shields.io/badge/PTES-111111?style=for-the-badge" alt="PTES" />
-  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud Infrastructure" />
-</p>
-
-### Core areas
-
-```yaml
-Offensive Security:
-  - Web Application Penetration Testing
-  - API Security Testing
-  - Network Penetration Testing
-  - Active Directory Security
-
-Application Security:
-  - Vulnerability Assessment
-  - Manual Exploitation
-  - Security Reporting
-  - Remediation Guidance
-
-Engineering:
-  - Python / Django / Flask
-  - JavaScript / Next.js
-  - PostgreSQL / MySQL
-  - Docker / Linux / Windows Server
-  - AWS / Oracle Cloud Infrastructure
-```
-
-## Education
-
-**State Engineer’s Degree in Telecommunications and Networks**  
-ENSA Fes · 2020 — 2025
-
-## Current direction
-
-```text
-[ BUILD ] ──→ [ BREAK ] ──→ [ UNDERSTAND ] ──→ [ SECURE ]
-```
-
-Currently focused on **offensive security, AppSec, security automation, Active Directory security, cloud security and realistic lab engineering**.
 
 ---
 
 <div align="center">
 
-### Let's connect
+## signals
 
-**Fes, Morocco** · [aramon.ma](https://aramon.ma) · [LinkedIn](https://www.linkedin.com/in/anas-magane-3aa287262/) · [YouTube](https://www.youtube.com/@Anas_Education) · [TryHackMe](https://tryhackme.com/p/Anas.Education)
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
 
-**Professional opportunities / security work:** [anasmagane1@gmail.com](mailto:anasmagane1@gmail.com)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/emmi-style-radar-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/emmi-style-radar-light.svg">
+  <img src="assets/emmi-style-radar-dark.svg" width="400" alt="security skill radar">
+</picture>
 
-<br />
+</td>
+<td width="50%" align="center" valign="middle">
 
-`Build it. Break it. Understand it. Secure it.`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/emmi-style-radar-stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/emmi-style-radar-stack-light.svg">
+  <img src="assets/emmi-style-radar-stack-dark.svg" width="400" alt="language and tooling radar">
+</picture>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## numbers & signals
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/emmi-style-stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/emmi-style-stats-light.svg">
+  <img src="assets/emmi-style-stats-dark.svg" width="480" alt="profile signals">
+</picture>
+
+<br>
+<br>
+
+<img src="assets/emmi-style-language-bars.svg" height="165" alt="core language mix">
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>` Build · Break · Understand · Secure · @Anas-Magane `</sub>
 
 </div>
