@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-label="Anas Magane terminal profile banner">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#111827"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#aa9bef"/><stop offset="1" stop-color="#7ee787"/></linearGradient>
+  <style>.m{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono',monospace}.mut{fill:#8b949e}.fg{fill:#e6edf3}.p{fill:#aa9bef}.g{fill:#7ee787}.b{fill:#79c0ff}.line{stroke:#30363d;stroke-width:1.3}</style>
+</defs>
+<rect width="1200" height="420" rx="18" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="418" rx="17" fill="none" stroke="#30363d" stroke-width="2"/>
+<circle cx="28" cy="26" r="6" fill="#ff5f56"/><circle cx="48" cy="26" r="6" fill="#ffbd2e"/><circle cx="68" cy="26" r="6" fill="#27c93f"/>
+<text x="600" y="31" text-anchor="middle" class="m mut" font-size="14">profile.sh --live · anas@security</text>
+<line x1="20" y1="48" x2="1180" y2="48" class="line"/>
+<text x="34" y="82" class="m g" font-size="16">$ whoami</text>
+<text x="34" y="122" class="m fg" font-size="34" font-weight="700">Anas Magane</text>
+<text x="34" y="151" class="m p" font-size="17">Cybersecurity Engineer · Penetration Tester · AppSec</text>
+<text x="34" y="188" class="m mut" font-size="14">location</text><text x="155" y="188" class="m b" font-size="14">Fes, Morocco</text>
+<text x="34" y="216" class="m mut" font-size="14">focus</text><text x="155" y="216" class="m b" font-size="14">Web · APIs · Network · Active Directory</text>
+<text x="34" y="244" class="m mut" font-size="14">stack</text><text x="155" y="244" class="m b" font-size="14">Python · Bash · C · Docker · Linux</text>
+<text x="34" y="272" class="m mut" font-size="14">certs</text><text x="155" y="272" class="m b" font-size="14">eWPTXv3 · eJPTv2 · CRTA · TryHackMe Top 1%</text>
+<text x="34" y="314" class="m g" font-size="15">$ mission</text>
+<text x="34" y="344" class="m fg" font-size="14">build → break → understand → secure</text>
+<text x="34" y="376" class="m mut" font-size="13">Founder &amp; CTO @ Aramon IT · Anas Education 65K+</text>
+<line x1="575" y1="72" x2="575" y2="390" class="line"/>
+<text x="612" y="84" class="m p" font-size="15">$ portrait --ascii --source studio.jpg</text>
+<text x="620" y="116" class="m" font-size="10.2" font-weight="700" fill="url(#accent)" xml:space="preserve">
+<tspan x="620" dy="0">             .,:;irsXA253hMHGS#9B&amp;@</tspan>
+<tspan x="620" dy="12">         .;s3H#B&amp;@@@@@@@@@@@@&amp;B9Gh2r,</tspan>
+<tspan x="620" dy="12">      ,r5#&amp;@@@@@B9SHHHHHHS9B&amp;@@@@@#5i</tspan>
+<tspan x="620" dy="12">    :2B@@@@@9H3AXsrrrrrrsXA3H9&amp;@@@@@BS;</tspan>
+<tspan x="620" dy="12">   X&amp;@@@@@#5r;,............,;r5#@@@@@@&amp;3</tspan>
+<tspan x="620" dy="12">  5@@@@@@G;,....,:;irsri;:,....;H@@@@@@@9</tspan>
+<tspan x="620" dy="12"> :B@@@@@G:...;s3H9B&amp;&amp;&amp;&amp;B9HM2i...r#@@@@@@;</tspan>
+<tspan x="620" dy="12"> 9@@@@@H,..iG&amp;@@@@@B999B@@@@@@9s...M@@@@@&amp;</tspan>
+<tspan x="620" dy="12"> B@@@@@3..sB@@@#2r;,...,;r2#@@@&amp;X..5@@@@@@</tspan>
+<tspan x="620" dy="12"> 9@@@@@M..M@@@B;...     ...;#@@@9..H@@@@@&amp;</tspan>
+<tspan x="620" dy="12"> ;B@@@@@5.;#@@@9r..     ..r9@@@#:.;G@@@@@;</tspan>
+<tspan x="620" dy="12">  r#@@@@@H:.iH&amp;@@9H3XXX3H9@@&amp;3i..h@@@@@#:</tspan>
+<tspan x="620" dy="12">   ;B@@@@@@H;..;s3HSSSSSH3Xr,..:3@@@@@@B;</tspan>
+<tspan x="620" dy="12">    iG@@@@@@@#3i:..........,:rH&amp;@@@@@@9s</tspan>
+<tspan x="620" dy="12">      rH&amp;@@@@@@@@B9SHHHHS9B&amp;@@@@@@@#3;</tspan>
+<tspan x="620" dy="12">        ,r3#&amp;@@@@@@@@@@@@@@@@@@&amp;B5i.</tspan>
+<tspan x="620" dy="12">            ,;iX53hMMMh35Asr;.</tspan>
+</text>
+<text x="620" y="349" class="m g" font-size="14">status: online</text>
+<text x="620" y="374" class="m mut" font-size="13">aramon.ma · academy.aramon.ma · github.com/Anas-Magane</text>
+</svg>
