@@ -1,57 +1,79 @@
-<svg width="1600" height="900" viewBox="0 0 1600 900" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-<title id="title">Anas Magane Hacker ASCII Profile</title>
-<desc id="desc">Responsive black-hat terminal profile with an ASCII portrait generated from Anas Magane's latest studio photo.</desc>
-<defs>
-  <radialGradient id="bg" cx="74%" cy="42%" r="75%"><stop stop-color="#07180D"/><stop offset=".48" stop-color="#020705"/><stop offset="1" stop-color="#010303"/></radialGradient>
-  <linearGradient id="name" x1="0" x2="1"><stop stop-color="#A8FF60"/><stop offset="1" stop-color="#3CFF7C"/></linearGradient>
-  <linearGradient id="portrait" x1="860" y1="160" x2="1500" y2="700" gradientUnits="userSpaceOnUse"><stop stop-color="#6CFF78"/><stop offset=".54" stop-color="#22EB66"/><stop offset=".82" stop-color="#FFB04A"/><stop offset="1" stop-color="#FFD46A"/></linearGradient>
-  <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="transparent"/><rect width="4" height="1" fill="#61FF83" opacity=".035"/></pattern>
-  <filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="#62FF85" flood-opacity=".35"/></filter>
-  <style>.m{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono",monospace}.green{fill:#67FF88}.green2{fill:#CBFFD8}.mut{fill:#7C9B86}.orange{fill:#FFAE4B}.cyan{fill:#73E7FF}.line{stroke:#1D4D31;stroke-width:1.3;opacity:.95}</style>
-</defs>
-<rect width="1600" height="900" fill="url(#bg)"/><rect x="12" y="12" width="1576" height="876" rx="18" fill="none" stroke="#215A37" stroke-width="2"/><rect x="12" y="12" width="1576" height="876" rx="18" fill="url(#scan)"/>
-<rect x="12" y="12" width="1576" height="58" rx="18" fill="#020706"/><rect x="12" y="47" width="1576" height="23" fill="#020706"/><circle cx="40" cy="41" r="6.5" fill="#FF5F56"/><circle cx="62" cy="41" r="6.5" fill="#FFBD2E"/><circle cx="84" cy="41" r="6.5" fill="#27C93F"/><text x="800" y="45" text-anchor="middle" class="m mut" font-size="17">root@anas: ~/github/profile</text>
-<line x1="800" y1="88" x2="800" y2="865" class="line"/>
-<text x="42" y="110" class="m green" font-size="20" font-weight="700">$ whoami --verbose</text><text x="42" y="158" class="m" font-size="62" font-weight="900" fill="url(#name)" filter="url(#glow)">ANAS MAGANE</text><text x="44" y="192" class="m green2" font-size="24">Cybersecurity Engineer | Penetration Tester | AppSec</text><text x="748" y="110" text-anchor="end" class="m orange" font-size="18">[ ARAMON IT ]</text><line x1="42" y1="216" x2="760" y2="216" class="line"/>
-<text x="42" y="254" class="m orange" font-size="22" font-weight="800">[ identity ]</text>
-<text x="42" y="290" class="m orange" font-size="21">PROFILE .........</text><text x="255" y="290" class="m cyan" font-size="21">Cybersecurity Engineer · Pentester · AppSec</text>
-<text x="42" y="326" class="m orange" font-size="21">LOCATION ........</text><text x="255" y="326" class="m cyan" font-size="21">Fes, Morocco</text>
-<text x="42" y="362" class="m orange" font-size="21">UPTIME ..........</text><text x="255" y="362" class="m cyan" font-size="21">Learn · Build · Break · Secure · Repeat</text>
-<text x="42" y="398" class="m orange" font-size="21">FOCUS ...........</text><text x="255" y="398" class="m cyan" font-size="21">Web · API · Network · Active Directory</text>
-<text x="42" y="434" class="m orange" font-size="21">TOOLS ...........</text><text x="255" y="434" class="m cyan" font-size="21">Burp Suite · Nmap · Docker · Linux</text>
-<text x="42" y="470" class="m orange" font-size="21">CLOUD ...........</text><text x="255" y="470" class="m cyan" font-size="21">AWS · OCI</text>
-<line x1="42" y1="500" x2="760" y2="500" class="line"/>
-<text x="42" y="538" class="m orange" font-size="22" font-weight="800">[ languages ]</text>
-<text x="42" y="574" class="m orange" font-size="21">PROGRAMMING .....</text><text x="255" y="574" class="m cyan" font-size="21">Python · C</text>
-<text x="42" y="610" class="m orange" font-size="21">SHELL ...........</text><text x="255" y="610" class="m cyan" font-size="21">Bash · Linux Shell</text>
-<text x="42" y="646" class="m orange" font-size="21">SPOKEN ..........</text><text x="255" y="646" class="m cyan" font-size="21">Arabic · English · French</text>
-<line x1="42" y1="676" x2="760" y2="676" class="line"/>
-<text x="42" y="714" class="m orange" font-size="22" font-weight="800">[ offensive_security ]</text><text x="42" y="748" class="m green2" font-size="20">&gt; Web Application &amp; API Pentesting</text><text x="42" y="776" class="m green2" font-size="20">&gt; Active Directory &amp; Network Security</text><text x="42" y="804" class="m green2" font-size="20">&gt; Security Automation · Labs · CTFs</text><text x="42" y="842" class="m mut" font-size="18">aramon.ma  ·  academy.aramon.ma  ·  github.com/Anas-Magane</text>
-<text x="832" y="110" class="m green" font-size="20" font-weight="700">$ render --ascii --source latest-photo --style blackhat</text><text x="1548" y="110" text-anchor="end" class="m mut" font-size="16">[ ASCII / LATEST PHOTO ]</text><line x1="832" y1="130" x2="1548" y2="130" class="line"/>
-<text x="850" y="166" class="m" font-size="18" font-weight="700" fill="url(#portrait)" letter-spacing=".2" xml:space="preserve">
-<tspan x="850" dy="0">                        ,:;;;,</tspan>
-<tspan x="850" dy="22">                 .;s2MHGHMM3As;.</tspan>
-<tspan x="850" dy="22">               :3S#9B999SHMh32r:. ,:</tspan>
-<tspan x="850" dy="22">              XH#B&amp;&amp;&amp;BB9##SG5i.   .i;,</tspan>
-<tspan x="850" dy="22">              5G#B&amp;B9####S5:         ;HA</tspan>
-<tspan x="850" dy="22">              2GH3A;:,iAhi            is</tspan>
-<tspan x="850" dy="22">              ir.        :            ;X:</tspan>
-<tspan x="850" dy="22">                        hHr          ,;ri</tspan>
-<tspan x="850" dy="22">             ;,        i#G5.    i2Ai,.,ii.,</tspan>
-<tspan x="850" dy="22">             ;3AsXri;,:332ri    .r3X. .;:</tspan>
-<tspan x="850" dy="22">              sSG#99G3M3552Ar:   X5r  .,:</tspan>
-<tspan x="850" dy="22">               2S#9#SGXXhMhAXi.  :i.  ..,</tspan>
-<tspan x="850" dy="22">                MMG###HS#Sh5AXX;::       :,,:r;</tspan>
-<tspan x="850" dy="22">                  ,5GGGSS#B9GH5r:            s22:</tspan>
-<tspan x="850" dy="22">                    ,AMMHSM5As:             ;3333Xi,</tspan>
-<tspan x="850" dy="22">                     5H32X;,               s99M52h##22Ar;.</tspan>
-<tspan x="850" dy="22">                    G@Ghh335Ar;:. .,:,,.  A&amp;&amp;S33HB@&amp;5G@&amp;&amp;B#H5s</tspan>
-<tspan x="850" dy="22">                ,s3#@B3:hHMMh5ArrrsAAXsi;h@@9HhHB@@9X3B&amp;&amp;&amp;&amp;&amp;@&amp;</tspan>
-<tspan x="850" dy="22">            ,s3S&amp;@@@@B3 .MGGHM3522535AA2S@@&amp;#HGB@@@Ms5B@@&amp;&amp;&amp;&amp;&amp;</tspan>
-<tspan x="850" dy="22">        .r3S&amp;@@@&amp;@@@@BH. sMHGGM333MH35M9@&amp;&amp;B#9&amp;@@@B2sh&amp;@@@&amp;&amp;&amp;@</tspan>
-<tspan x="850" dy="22">     ;5S&amp;@@@&amp;@@&amp;&amp;@@@@&amp;S2  hHGGHHHGSGHS&amp;@@@&amp;&amp;&amp;@@@@@SXsG@@@@@@@&amp;</tspan>
-<tspan x="850" dy="22">   2#&amp;@@&amp;&amp;BB&amp;@&amp;&amp;@@@@@&amp;BH5rAMGGGGGS#9&amp;@G3H#999BBBBBhsA#@@@@@@BG</tspan>
-<tspan x="850" dy="22">  H@B&amp;&amp;&amp;B99B&amp;@@@@@@&amp;B9&amp;B&amp;93rAhHHG9&amp;@@Bhs3BBBBBB99#GS9&amp;&amp;@@@@BHA</tspan>
-</text>
-<rect x="1080" y="690" width="420" height="116" rx="12" fill="#020806" stroke="#245A39"/><text x="1104" y="722" class="m orange" font-size="21" font-weight="800">[ github_highlights ]</text><text x="1104" y="752" class="m green2" font-size="18">&gt; TryHackMe ........ Top 1%</text><text x="1104" y="778" class="m green2" font-size="18">&gt; YouTube .......... 65K+</text><text x="1104" y="804" class="m green2" font-size="18">&gt; Labs · CTFs · Security Projects</text>
-<line x1="832" y1="830" x2="1548" y2="830" class="line"/><text x="850" y="864" class="m" font-size="23" font-weight="800" fill="#FFD36A">root@anas:~# build → break → understand → secure</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1724" height="912" viewBox="0 0 1724 912" role="img" aria-labelledby="title desc">
+<title id="title">Anas Magane terminal profile</title>
+<desc id="desc">Dark terminal profile card with Anas Magane ASCII portrait on the right.</desc>
+<defs><style>
+.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}
+.ascii{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}
+.name{fill:#F6C34F;font-weight:800;letter-spacing:1px} .label{fill:#F6C34F} .text{fill:#63ADFF}
+.sub{fill:#C7D4E7} .mut{fill:#90A4BC} .line{stroke:#31465A;stroke-width:1.6} .card{fill:#07121D;stroke:#263B50;stroke-width:1.5}
+</style></defs>
+<rect width="1724" height="912" fill="#050B12"/>
+<rect x="14" y="10" width="1696" height="888" rx="12" fill="none" stroke="#26384A" stroke-width="2"/>
+<text x="40" y="45" class="mono text" font-size="21" font-weight="700">› AnasMagane</text>
+<text x="240" y="45" class="mono sub" font-size="21">/ README.md</text>
+<line x1="36" y1="62" x2="1684" y2="62" class="line"/>
+<rect x="1172" y="80" width="506" height="748" fill="#040A11" stroke="#21364A" stroke-width="2"/>
+<text x="1192" y="96" class="ascii" fill="#255D8D" font-size="15.5" font-weight="700" xml:space="preserve"><tspan x="1192" dy="0">                               ,, :,                      </tspan><tspan x="1192" dy="17.8">                  ,, ,;;: ;;::  ,::;;:;::,,               </tspan><tspan x="1192" dy="17.8">                ,,:;;;:,       ,      ,,:,::,,            </tspan><tspan x="1192" dy="17.8">              ::i:,:,          ,,,,     ,: :;;::          </tspan><tspan x="1192" dy="17.8">            :; ,:,,      :,   , ,     ,  ,  ,:,:::        </tspan><tspan x="1192" dy="17.8">          : i:, ,:     :,            ,       ,, ,;:       </tspan><tspan x="1192" dy="17.8">         :;:,  ,:    ,        ,,,,,          :,  :;,      </tspan><tspan x="1192" dy="17.8">        ,i : : ::    ,,:               :,    ,    ::      </tspan><tspan x="1192" dy="17.8">        ,r:,   ,,  ,                            , ,,      </tspan><tspan x="1192" dy="17.8">         r ,.   :                                ,,       </tspan><tspan x="1192" dy="17.8">        ,:;,   ,                     ;:      ,   :,       </tspan><tspan x="1192" dy="17.8">          ::  ,      ;;;         ,,,          ,, ,        </tspan><tspan x="1192" dy="17.8">           ,;,:                      :        :  i        </tspan><tspan x="1192" dy="17.8">            :,:       :,                          :       </tspan><tspan x="1192" dy="17.8">           ,                                      ,       </tspan><tspan x="1192" dy="17.8">           ,                                              </tspan><tspan x="1192" dy="17.8">            ;                   , :              :        </tspan><tspan x="1192" dy="17.8">                                   :,,:          ,        </tspan><tspan x="1192" dy="17.8">             ,          ,                      ,,,        </tspan><tspan x="1192" dy="17.8">                                              ,.          </tspan><tspan x="1192" dy="17.8">                ,                             ..          </tspan><tspan x="1192" dy="17.8">                 .;                            ,,.        </tspan><tspan x="1192" dy="17.8">                 ..i                 ::       ;  ,,       </tspan><tspan x="1192" dy="17.8">                .::          ,,::    ,            ::,     </tspan><tspan x="1192" dy="17.8">              .,;i,           :::::               ,::,,   </tspan><tspan x="1192" dy="17.8">           .,,:ii:, :                         ,     ,,::,,</tspan><tspan x="1192" dy="17.8">      ,,:::, ,::;:,                                    ,  </tspan><tspan x="1192" dy="17.8">  ,,::::,,   ,,,,,,                                    ,  </tspan><tspan x="1192" dy="17.8">;::,,   ,    ,,,,,,,                                      </tspan><tspan x="1192" dy="17.8">       ,     ,,,,,,,,   :                                 </tspan><tspan x="1192" dy="17.8">      ,      ,,,,,,,,,   ,                ,               </tspan><tspan x="1192" dy="17.8">     ,       ,;,:,,,     , ;            ,       ,    ,    </tspan><tspan x="1192" dy="17.8">    ,                        ,       ;,                   </tspan><tspan x="1192" dy="17.8">                                   :                      </tspan><tspan x="1192" dy="17.8">                      ,         ,                         </tspan><tspan x="1192" dy="17.8">                              ,  ,                        </tspan><tspan x="1192" dy="17.8">                             ,  :;                 irrs:  </tspan><tspan x="1192" dy="17.8">                                                   ;  A   </tspan><tspan x="1192" dy="17.8">                                                   :ri;   </tspan><tspan x="1192" dy="17.8">                                                          </tspan></text>
+<text x="1192" y="96" class="ascii" fill="#AAB6C6" font-size="15.5" font-weight="700" xml:space="preserve"><tspan x="1192" dy="0">                                                          </tspan><tspan x="1192" dy="17.8">                                                          </tspan><tspan x="1192" dy="17.8">                                                          </tspan><tspan x="1192" dy="17.8">                                                          </tspan><tspan x="1192" dy="17.8">                                                          </tspan><tspan x="1192" dy="17.8">                                                          </tspan><tspan x="1192" dy="17.8">                                                          </tspan><tspan x="1192" dy="17.8">                                                          </tspan><tspan x="1192" dy="17.8">                                                          </tspan><tspan x="1192" dy="17.8">                                                          </tspan><tspan x="1192" dy="17.8">                                                          </tspan><tspan x="1192" dy="17.8">                                                          </tspan><tspan x="1192" dy="17.8">                                                          </tspan><tspan x="1192" dy="17.8">                                                          </tspan><tspan x="1192" dy="17.8">                                                          </tspan><tspan x="1192" dy="17.8">                                                          </tspan><tspan x="1192" dy="17.8">                                                          </tspan><tspan x="1192" dy="17.8">                                                          </tspan><tspan x="1192" dy="17.8">                                                          </tspan><tspan x="1192" dy="17.8">                                                          </tspan><tspan x="1192" dy="17.8">                                                          </tspan><tspan x="1192" dy="17.8">                                                          </tspan><tspan x="1192" dy="17.8">                                                          </tspan><tspan x="1192" dy="17.8">                                                          </tspan><tspan x="1192" dy="17.8">                                                          </tspan><tspan x="1192" dy="17.8">                                                          </tspan><tspan x="1192" dy="17.8">                                                          </tspan><tspan x="1192" dy="17.8">                                                          </tspan><tspan x="1192" dy="17.8">                                                          </tspan><tspan x="1192" dy="17.8">                                                          </tspan><tspan x="1192" dy="17.8">                                                          </tspan><tspan x="1192" dy="17.8">                                                          </tspan><tspan x="1192" dy="17.8">                                                          </tspan><tspan x="1192" dy="17.8">                                                          </tspan><tspan x="1192" dy="17.8">                                                          </tspan><tspan x="1192" dy="17.8">                                                          </tspan><tspan x="1192" dy="17.8">                                                          </tspan><tspan x="1192" dy="17.8">                                                    52    </tspan><tspan x="1192" dy="17.8">                                                          </tspan><tspan x="1192" dy="17.8">                                                          </tspan></text>
+<text x="1192" y="96" class="ascii" fill="#F2A24A" font-size="15.5" font-weight="700" xml:space="preserve"><tspan x="1192" dy="0">                                                          </tspan><tspan x="1192" dy="17.8">                         i                                </tspan><tspan x="1192" dy="17.8">                                                          </tspan><tspan x="1192" dy="17.8">                                                          </tspan><tspan x="1192" dy="17.8">              i                                           </tspan><tspan x="1192" dy="17.8">           i                                              </tspan><tspan x="1192" dy="17.8">                                                          </tspan><tspan x="1192" dy="17.8">          i             rXAA5533h332Ari                   </tspan><tspan x="1192" dy="17.8">                    ;X2MGGGGGHHHMhh352AAXs;               </tspan><tspan x="1192" dy="17.8">          i      irX3GGSSSGGGHHHHHMh3522533r              </tspan><tspan x="1192" dy="17.8">                2GHHHGGGGGGGGGSGM5Xri  irAhMA             </tspan><tspan x="1192" dy="17.8">               sHH3Xr   isA3HGM2i   ;rXXsrs5H2            </tspan><tspan x="1192" dy="17.8">               hHXsA2AXrirXhGHhA;;;si ;;isA2ss  ;         </tspan><tspan x="1192" dy="17.8">               5233Xrr  ;iAX2M5i;riXsirrrsX2rhAs2r        </tspan><tspan x="1192" dy="17.8">            s2rAAh5sX22A2h5rHSH3riA33hMMMh323HhX5r        </tspan><tspan x="1192" dy="17.8">            A3GHH3HGGGGGHM5MS#G32Xss5hMM355hMhMsss        </tspan><tspan x="1192" dy="17.8">             hGMSGMHHHh5XAh5s52i   isX235553hhh52         </tspan><tspan x="1192" dy="17.8">             sGhHGGGHM5A55Aris25si;    AM5223h3A3         </tspan><tspan x="1192" dy="17.8">              hGHGHMHH5i iA22222AXsriXX3H5A23hr           </tspan><tspan x="1192" dy="17.8">              isAGGHHGH3MHMMh3AAXsA533533AA25A            </tspan><tspan x="1192" dy="17.8">                 XMHHHHHGGGGM55A2233322AXXXX2X            </tspan><tspan x="1192" dy="17.8">                   5MMHHHGSSSSSGGGH32AXsssrX35            </tspan><tspan x="1192" dy="17.8">                    h553h5533MM3h5sii  issA23h            </tspan><tspan x="1192" dy="17.8">                    3GM35X;           irXAA25hX           </tspan><tspan x="1192" dy="17.8">                    sSGHMh3Ari     ;irssXAA253i           </tspan><tspan x="1192" dy="17.8">                     HGGGHHMh35AXssrssXXAAA2As            </tspan><tspan x="1192" dy="17.8">                     AGGGGGGHHM332AXXA252A2AX;            </tspan><tspan x="1192" dy="17.8">                      AHGGHHHMMhh32AA5h52AAAX;            </tspan><tspan x="1192" dy="17.8">                       r3GGHHMh355223h32A533s             </tspan><tspan x="1192" dy="17.8">                         2HGGHHMhhhMHH353h3r              </tspan><tspan x="1192" dy="17.8">                          XhGGGHHGGGGHHM3s                </tspan><tspan x="1192" dy="17.8">                            s5MHHGGGSH5r                  </tspan><tspan x="1192" dy="17.8">                              ;2hHGH2                     </tspan><tspan x="1192" dy="17.8">                                iXX                       </tspan><tspan x="1192" dy="17.8">                                                          </tspan><tspan x="1192" dy="17.8">                                                          </tspan><tspan x="1192" dy="17.8">                                                          </tspan><tspan x="1192" dy="17.8">                                                          </tspan><tspan x="1192" dy="17.8">                                                          </tspan><tspan x="1192" dy="17.8">                                                          </tspan></text>
+<line x1="1138" y1="80" x2="1138" y2="850" class="line"/>
+<text x="575" y="117" text-anchor="middle" class="mono name" font-size="72">ANAS MAGANE</text>
+<text x="575" y="160" text-anchor="middle" class="mono sub" font-size="27">Cybersecurity Engineer | Penetration Tester | AppSec</text>
+<text x="1055" y="118" class="mono name" font-size="68">π</text>
+<line x1="40" y1="184" x2="1100" y2="184" class="line"/>
+<line x1="576" y1="206" x2="576" y2="372" class="line"/>
+<g class="mono" font-size="21">
+<text x="40" y="222" class="label">OS</text><text x="168" y="222" class="sub">............:</text><text x="300" y="222" class="text">Windows 10, Linux, Kali</text>
+<text x="40" y="260" class="label">Uptime</text><text x="168" y="260" class="sub">........:</text><text x="300" y="260" class="text">4+ years in Cybersecurity</text>
+<text x="40" y="298" class="label">Role</text><text x="168" y="298" class="sub">..........:</text><text x="300" y="298" class="text">Pentester &amp; AppSec Engineer</text>
+<text x="40" y="336" class="label">Company</text><text x="168" y="336" class="sub">.......:</text><text x="300" y="336" class="text">Founder &amp; CTO @ Aramon IT</text>
+<text x="40" y="374" class="label">Location</text><text x="168" y="374" class="sub">......:</text><text x="300" y="374" class="text">Fes, Morocco</text>
+<text x="610" y="222" class="label">Focus</text><text x="744" y="222" class="sub">.........:</text><text x="875" y="222" class="text">Web, APIs, Network, AD</text>
+<text x="610" y="260" class="label">Tools</text><text x="744" y="260" class="sub">.........:</text><text x="875" y="260" class="text">Burp Suite, Nmap, Docker</text>
+<text x="610" y="298" class="label">Langs</text><text x="744" y="298" class="sub">.........:</text><text x="875" y="298" class="text">Python, JavaScript, SQL</text>
+<text x="610" y="336" class="label">Cloud</text><text x="744" y="336" class="sub">.........:</text><text x="875" y="336" class="text">AWS, OCI</text>
+<text x="610" y="374" class="label">Hobbies</text><text x="744" y="374" class="sub">.......:</text><text x="875" y="374" class="text">CTF, Automations, Teaching</text>
+</g>
+<line x1="40" y1="400" x2="1100" y2="400" class="line"/>
+<text x="40" y="438" class="mono label" font-size="24">Languages</text>
+<text x="40" y="474" class="mono text" font-size="18">Python   JavaScript   SQL   Bash   PowerShell</text>
+<line x1="510" y1="418" x2="510" y2="486" class="line"/>
+<text x="545" y="438" class="mono label" font-size="24">Web &amp; Security</text>
+<text x="545" y="474" class="mono text" font-size="18">HTML   CSS   JSON   YAML   LaTeX</text>
+<line x1="833" y1="418" x2="833" y2="486" class="line"/>
+<text x="868" y="438" class="mono label" font-size="24">Real World</text>
+<text x="868" y="474" class="mono text" font-size="18">Linux   Windows Server   Docker</text>
+<line x1="40" y1="500" x2="1100" y2="500" class="line"/>
+<text x="40" y="538" class="mono label" font-size="24">Certifications</text>
+<text x="40" y="574" class="mono text" font-size="18">eWPTXv3    eJPTv2    CRTA    TryHackMe (Top 1%)    PortSwigger Academy    PentesterLab</text>
+<line x1="40" y1="596" x2="1100" y2="596" class="line"/>
+<text x="40" y="635" class="mono label" font-size="24">Contact</text>
+<line x1="400" y1="648" x2="400" y2="710" class="line"/><line x1="788" y1="648" x2="788" y2="710" class="line"/>
+<g class="mono" font-size="19">
+<text x="40" y="674" class="sub">✉</text><text x="84" y="674" class="text">anasmagane1@gmail.com</text>
+<text x="40" y="704" class="sub">in</text><text x="84" y="704" class="text">Anas Magane</text>
+<text x="430" y="674" class="sub">◌</text><text x="474" y="674" class="text">aramon.ma</text>
+<text x="430" y="704" class="sub">▶</text><text x="474" y="704" class="text">Anas Education (65K+)</text>
+<text x="820" y="674" class="sub">◉</text><text x="864" y="674" class="text">github.com/Anas-Magane</text>
+<text x="820" y="704" class="sub">⌖</text><text x="864" y="704" class="text">Fes, Morocco</text>
+</g>
+<line x1="40" y1="726" x2="1100" y2="726" class="line"/>
+<text x="40" y="760" class="mono label" font-size="24">GitHub Stats</text>
+<rect x="40" y="778" width="530" height="98" rx="8" class="card"/>
+<g class="mono" font-size="17">
+<text x="62" y="810" class="label">Repositories</text><text x="230" y="810" class="sub">:</text><text x="265" y="810" class="text">95</text>
+<text x="62" y="838" class="label">Commits</text><text x="230" y="838" class="sub">:</text><text x="265" y="838" class="text">2,116</text>
+<text x="62" y="866" class="label">Lines of Code</text><text x="230" y="866" class="sub">:</text><text x="265" y="866" class="text">446,276</text>
+<line x1="348" y1="792" x2="348" y2="862" class="line"/>
+<text x="370" y="810" class="label">Contributed</text><text x="495" y="810" class="sub">:</text><text x="525" y="810" class="text">131</text>
+<text x="370" y="838" class="label">Stars</text><text x="495" y="838" class="sub">:</text><text x="525" y="838" class="text">142</text>
+<text x="370" y="866" class="label">Followers</text><text x="495" y="866" class="sub">:</text><text x="525" y="866" class="text">196</text>
+</g>
+<text x="615" y="760" class="mono label" font-size="24">Top Languages</text>
+<g class="mono" font-size="16">
+<text x="615" y="802" class="text">Python</text><rect x="730" y="788" width="220" height="15" fill="#0F1B29" stroke="#27394C"/><rect x="730" y="788" width="115" height="15" fill="#4094FF"/><text x="978" y="802" class="sub">52.3%</text>
+<text x="615" y="828" class="text">JavaScript</text><rect x="730" y="814" width="220" height="15" fill="#0F1B29" stroke="#27394C"/><rect x="730" y="814" width="40" height="15" fill="#F2CF4A"/><text x="978" y="828" class="sub">18.1%</text>
+<text x="615" y="854" class="text">TypeScript</text><rect x="730" y="840" width="220" height="15" fill="#0F1B29" stroke="#27394C"/><rect x="730" y="840" width="19" height="15" fill="#4DA1FF"/><text x="978" y="854" class="sub">8.4%</text>
+<text x="615" y="880" class="text">Shell</text><rect x="730" y="866" width="220" height="15" fill="#0F1B29" stroke="#27394C"/><rect x="730" y="866" width="12" height="15" fill="#82F26A"/><text x="978" y="880" class="sub">5.6%</text>
+</g>
+</svg>
